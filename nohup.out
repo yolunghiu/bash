@@ -1,0 +1,23 @@
+Gtk-Message: 16:10:54.763: Failed to load module "canberra-gtk-module"
+
+WARNING: CommandOrControl + H is not a valid accelerator.
+
+    at WeChatWindow.initWechatWindowShortcut (/home/liuhy/Program/wechat/resources/app.asar/src/windows/controllers/wechat.js:179:10)
+    at new WeChatWindow (/home/liuhy/Program/wechat/resources/app.asar/src/windows/controllers/wechat.js:34:10)
+    at ElectronicWeChat.createWeChatWindow (/home/liuhy/Program/wechat/resources/app.asar/src/main.js:136:25)
+    at App.app.on (/home/liuhy/Program/wechat/resources/app.asar/src/main.js:50:12)
+    at emitTwo (events.js:111:20)
+    at App.emit (events.js:191:7)
+
+
+WARNING: CommandOrControl + H is not a valid accelerator.
+
+    at BrowserWindow.wechatWindow.on (/home/liuhy/Program/wechat/resources/app.asar/src/windows/controllers/wechat.js:164:12)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+    at WeChatWindow.show (/home/liuhy/Program/wechat/resources/app.asar/src/windows/controllers/wechat.js:85:23)
+    at WeChatWindow.resizeWindow (/home/liuhy/Program/wechat/resources/app.asar/src/windows/controllers/wechat.js:46:12)
+    at EventEmitter.ipcMain.on (/home/liuhy/Program/wechat/resources/app.asar/src/main.js:90:25)
+    at emitTwo (events.js:106:13)
+
+close event below 2
